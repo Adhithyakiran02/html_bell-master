@@ -1,3 +1,4 @@
+##live preview: https://adhithyakiran02.github.io/html_bell-master
 Thanks for downloading this theme!
 
 Theme Name: Bell
